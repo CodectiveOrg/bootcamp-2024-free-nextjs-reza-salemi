@@ -1,3 +1,5 @@
+<div dir="ltr" align="left">
+
 # باما نوبت | BamaNobat
 
 **Your Gateway to Easy Doctor Appointments**
@@ -20,5 +22,7 @@
 - **Frontend**: Next.js (React)
 - **Language**: TypeScript
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Styling**: Tailwind CSS
+- **Database**: PostgreSQL
+- **Styling**: CSS
+
+</div>
