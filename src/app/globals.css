@@ -38,6 +38,10 @@
   padding: 0;
 }
 
+html {
+  color-scheme: dark;
+}
+
 input,
 label,
 select,
