@@ -2,6 +2,8 @@
 
 # باما نوبت | BamaNobat
 
+[visit our website](https://bama-nobat.vercel.app/)
+
 **Your Gateway to Easy Doctor Appointments**
 
 (BamaNobat) is a modern platform designed to simplify finding doctors and scheduling appointments in Iran. With an intuitive interface and powerful search capabilities, BamaNobat connects patients to healthcare professionals effortlessly.

@@ -17,6 +17,7 @@ export default function Home(): ReactElement {
         <ul>
           <li>ارتوپد</li>
           <li>قلب و عروق</li>
+          <li>عمومی</li>
         </ul>
       </div>
     </div>

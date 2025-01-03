@@ -74,6 +74,8 @@ body {
   background-color: var(--color-default-background);
   color: var(--color-default-foreground);
 
+  font-size: var(--fz-400);
+
   display: grid;
   grid-template-rows: auto 1fr auto auto;
 

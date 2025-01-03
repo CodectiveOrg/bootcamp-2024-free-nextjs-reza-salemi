@@ -13,7 +13,7 @@ import {
   MingcuteYoutubeFill,
 } from "@/icons";
 
-import styles from "./footer.module.css";
+import styles from "./Footer.module.css";
 
 export const Footer = (): ReactElement => {
   return (
@@ -29,7 +29,7 @@ export const Footer = (): ReactElement => {
         <ul className={styles.certificates}>
           <li>
             <Link href="#">
-              <Image src={idkLogo} alt="IDK Logo" />
+              <Image src={idkLogo} alt="unknown Logo" />
             </Link>
           </li>
           <li>
